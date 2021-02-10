@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity implements  MyrecyclerViewAd
         List<Message> generateMessage = generateMessage();
         adapter.setItems(generateMessage);
 
+        // commit
+
 
     }
 
